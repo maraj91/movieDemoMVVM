@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MoviewDemo</string>
+
+    <!--Api Error Message-->
+    <string name="error_message">Sorry, something not right on our side. Please tap here to refresh</string>
+    <string name="networkErrorCode">NO_INTERNET_CONNECTION</string>
+    <string name="unknownError">Something Went Wrong</string>
+    <string name="requestTimeOutError">Something Went wrong. Please try again</string>
+    <string name="errorCodeMalformedJson">MALFORMED_JSON</string>
+    <string name="responseMalformedJson">Something Went Wrong</string>
+</resources>
