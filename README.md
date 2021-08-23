@@ -15,3 +15,15 @@ A simple demonstration of Android MVVM architecture with the latest libraries an
 - [Retrofit](https://square.github.io/retrofit/) - A type-safe HTTP client for Android and Java.
 - [Coil-kt](https://coil-kt.github.io/coil/) - An image loading library for Android backed by Kotlin Coroutines.
 - [Material Components for Android](https://github.com/material-components/material-components-android) - Modular and customizable Material Design UI components for Android.
+
+<div align="left">
+    <img src="https://github.com/maraj91/movieDemoMVVM/blob/main/screenshot/Screenshot_1629726397.png" width="400px"</img> 
+    <img src="https://github.com/maraj91/movieDemoMVVM/blob/main/screenshot/Screenshot_1629726403.png" width="400px"</img> 
+</div>
+
+
+<div align="right">
+    <img src="https://github.com/maraj91/movieDemoMVVM/blob/main/screenshot/Screenshot_1629726421.png" width="400px"</img> 
+    <img src="https://github.com/maraj91/movieDemoMVVM/blob/main/screenshot/Screenshot_1629726428.png" width="400px"</img> 
+</div>
+
