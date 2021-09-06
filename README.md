@@ -17,8 +17,8 @@ A simple demonstration of Android MVVM architecture with the latest libraries an
 - [Material Components for Android](https://github.com/material-components/material-components-android) - Modular and customizable Material Design UI components for Android.
 
 <div align="left">
-    <img src="https://github.com/maraj91/movieDemoMVVM/blob/main/screenshot/Screenshot_1629726397.png" width="400px"</img> 
-    <img src="https://github.com/maraj91/movieDemoMVVM/blob/main/screenshot/Screenshot_1629726403.png" width="400px"</img> 
+    <img src="https://raw.github.com/maraj91/movieDemoMVVM/screenshot/Screenshot_1629726397.png" width="400px"</img> 
+    <img src="https://raw.github.com/maraj91/movieDemoMVVM/blob/main/screenshot/Screenshot_1629726403.png" width="400px"</img> 
 </div>
 
 
